@@ -1,0 +1,7 @@
+baseurl = "http://critical-mass-sternfahrt.de/"
+languageCode = "de-de"
+title = "Critical Mass Sternfahrt"
+
+[params]
+  description = ""
+  author = "Critical Mass Netzwerk in der Metropolregion Stuttgart"
