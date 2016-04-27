@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Herrenberg",
+        "Treffpunkt": "Auf dem Graben",
+        "Zeit": "09:15 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.865280151367188,
+          48.597046366870394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Stuttgart",
+        "Treffpunkt": "Hauptbahnhof",
+        "Zeit": "13:30 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174957275390625,
+          48.77881771792104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Reutlingen",
+        "Treffpunkt": "Stadthalle",
+        "Zeit": "08:30 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.208602905273438,
+          48.49385744305437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Esslingen",
+        "Treffpunkt": "Bahnhof",
+        "Zeit": "12:00 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.301300048828125,
+          48.740795248378255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Schorndorf",
+        "Treffpunkt": "Oberer Marktplatz",
+        "Zeit": "10:15 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.525146484375,
+          48.80641123477908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Marbach am Neckar",
+        "Treffpunkt": "Bootshaus",
+        "Zeit": "10:30 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190750122070312,
+          48.898580970423865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9e9100",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Ort": "Weil der Stadt",
+        "Treffpunkt": "Marktplatz",
+        "Zeit": "10:30 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.870773315429686,
+          48.748039842585065
+        ]
+      }
+    }
+  ]
+}
