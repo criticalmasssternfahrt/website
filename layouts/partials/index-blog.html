@@ -1,0 +1,12 @@
+<h1 style="margin-top:1em;">Blog</h1>
+<main class="posts">
+  {{ range first 5 (where .Data.Pages "Section" "post") }}
+  <article class="post">
+	<h4>{{ .Title }}</h4>
+	<p>
+	  {{ .Summary }}
+	  <span class="small" style="margin-left:1em;"><a href="{{ .Permalink }}">Weiterlesen »</a></span>
+	</p>
+  </article>
+  {{ end }}
+</main>

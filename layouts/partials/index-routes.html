@@ -1,0 +1,12 @@
+<h1>Details zu den Routen</h1>
+<main class="posts">
+  {{ range where .Data.Pages.ByTitle "Section" "route" }}
+  <article class="post col-sm-4">
+	<h4>{{ .Title }}</h4>
+	<p>
+	  {{ .Params.intro }}
+	</p>
+	<p class="small"><a href="{{ .Permalink }}">Zwischenhalte und weitere Details »</a></p>
+  </article>
+  {{ end }}
+</main>
