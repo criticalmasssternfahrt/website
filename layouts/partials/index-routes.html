@@ -1,7 +1,7 @@
 <h1>Details zu den Routen</h1>
 <main class="posts">
   {{ range where .Data.Pages.ByTitle "Section" "route" }}
-  <article class="post col-sm-4">
+  <article class="post col-sm-12 col-md-6 col-lg-4">
 	<h4>{{ .Title }}</h4>
 	<p>
 	  {{ .Params.intro }}
