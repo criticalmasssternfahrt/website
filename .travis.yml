@@ -19,10 +19,10 @@ install:
     - true
 
 before_script:
-    - go get -u -v github.com/spf13/hugo
+    - docker pull criticalmasssternfahrt/hugobuilder:latest
 
 script:
-    - hugo
+    - docker run --rm -v $(pwd):/code criticalmasstourist/sternfahrthugo
 
 after_success:
     - echo "critical-mass-sternfahrt.de" > ./public/CNAME
