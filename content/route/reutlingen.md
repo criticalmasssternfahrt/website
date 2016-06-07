@@ -4,6 +4,7 @@ draft = false
 title = "Reutlingen"
 intro = "Wie auch die CM RT, startet auch die Sternfahrt an der Stadthalle, allerdings schon um 08:30 Uhr."
 map = "reutlingen.geojson"
+map_preview = "reutlingen"
 
 aliases = [
     "/reutlingen/",

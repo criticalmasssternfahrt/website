@@ -4,6 +4,7 @@ draft = false
 title = "Esslingen"
 intro = "Los geht es um 12:00 Uhr am Bahnhofsvorplatz."
 map = "esslingen.geojson"
+map_preview = "esslingen"
 
 aliases = [
     "/esslingen/",

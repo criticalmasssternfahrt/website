@@ -1,11 +1,11 @@
-<h1 style="margin-top:1em;">Blog</h1>
+<h1 class="display-4">Blog</h1>
 <main class="posts">
   {{ range first 5 (where .Data.Pages "Section" "post") }}
   <article class="post">
 	<h4>{{ .Title }} <small class="text-muted">{{ .Date.Format "02. Jan 2006" }}</small></h4>
 	<p>
 	  {{ .Summary }}
-	  <span class="small" style="margin-left:1em;"><a href="{{ .Permalink }}">Weiterlesen »</a></span>
+	  <span class="small" style="margin-left:1em;"><a href="{{ .Permalink }}">Weiterlesen&nbsp;»</a></span>
 	</p>
   </article>
   {{ end }}

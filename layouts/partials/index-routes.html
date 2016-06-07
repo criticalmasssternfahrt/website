@@ -1,12 +1,17 @@
-<h1>Details zu den Routen</h1>
+<h1 class="display-4">Details zu den Routen</h1>
 <main class="posts">
   {{ range where .Data.Pages.ByTitle "Section" "route" }}
-  <article class="post col-sm-12 col-md-6 col-lg-4">
-	<h4>{{ .Title }}</h4>
-	<p>
-	  {{ .Params.intro }}
-	</p>
-	<p class="small"><a href="{{ .Permalink }}">Zwischenhalte und weitere Details »</a></p>
-  </article>
+  <div class="col-sm-12 col-md-6 col-lg-4">
+    <div class="card">
+      <h4 class="card-header">{{ .Title }}</h4>
+      {{ if .Params.map_preview }}
+      <img class="card-img center-block" style="max-width:100%;" src="{{ .Site.BaseURL }}/img/map-preview/{{ .Params.map_preview }}.jpg" alt="{{ .Title }}">
+      {{ end }}
+      <div class="card-block">
+        <p class="card-text">{{ .Params.intro }}</p>
+        <p class="card-link"><a href="{{ .Permalink }}">Zwischenhalte und weitere Details&nbsp;»</a></p>
+      </div>
+    </div>
+  </div>
   {{ end }}
 </main>

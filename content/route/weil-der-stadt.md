@@ -4,6 +4,7 @@ draft = false
 title = "Weil der Stadt"
 intro = "Die Tour startet um 10:30 Uhr am Marktplatz."
 map = "weil-der-stadt.geojson"
+map_preview = "weil-der-stadt"
 
 aliases = [
     "/weil-der-stadt/",

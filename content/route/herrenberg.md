@@ -4,6 +4,7 @@ draft = false
 title = "Herrenberg"
 intro = "Start ist um 09:15 Uhr „Auf dem Graben“.”"
 map = "herrenberg.geojson"
+map_preview = "herrenberg"
 
 aliases = [
     "/herrenberg/",

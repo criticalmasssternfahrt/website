@@ -4,6 +4,7 @@ draft = false
 title = "Marbach/Ludwigsburg"
 intro = "Das Bootshaus im Marbach am Neckar dient um 10:30 Uhr als Startpunkt."
 map = "ludwigsburg.geojson"
+map_preview = "marbach-ludwigsburg"
 
 aliases = [
     "/marbach/",

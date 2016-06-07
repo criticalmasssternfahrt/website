@@ -4,6 +4,7 @@ draft = false
 title = "Schorndorf"
 intro = "Vom Oberen Marktplatz geht es um 10:15 Uhr Richtung Stuttgart."
 map = "schorndorf.geojson"
+map_preview = "schorndorf"
 
 aliases = [
     "/schorndorf/",
