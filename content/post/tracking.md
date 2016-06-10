@@ -11,9 +11,11 @@ Bei CriticalMaps ist kein Profil nötig. Nur App installieren und mit aktivierte
 Ersatzakku kann evtl. nicht schaden ;)
 
 Einen ersten Vorgeschmack gibt das <a href="http://labs.strava.com/flyby/viewer/#567667567?c=u0wt2f4w&z=C&t=1NBGG5&a=b-vVIdix1SGjgdUhInDVIbMb1iHPMNYhYXXVIawf3CH5HdUhIL0dIvvp4yFpDdUhs3TVIbfE1CFCtNUh60bjIVFB1SGv9Ncha9_UIXHD1iHn4tUhwZ_ZIQjX1SGWstkhLnQHIo6xEyOvodkh7bTcIQ&x=15_w&s=C8">Strava-Flyby von Mai</a> oder <a href="http://labs.strava.com/flyby/viewer/#597335608?c=u0wt2qvg&z=E&t=1NKRHG&a=OJ6aI85ioiMq6poj5P2bIy2UmiP0pJoj2pObI2krnSNzJJwjH76aI7QKmiOq8pojtfCbIx2OmiNjnp0jBKuaI68FrCNP-Jsj&s=6H">Juni</a>:
-<img src="http://i.giphy.com/xT0GqK9li7I6W7rlQY.gif" alt="CM Flyby 0516" >
+<img src="http://i.giphy.com/xT0GqK9li7I6W7rlQY.gif" alt="CM Flyby 0516" ><br>
+oder ein <a href="http://labs.strava.com/flyby/viewer/#599308654?c=u336s9nn&z=B&t=1NK-g8&a=brm4IwUgvCPE9rgjd8K3I-gxvSPcCNkj7EC4IwzNuSMgT70jX4y_I3WWtiMpp7cjLlvdI5NdviNLsb4jXEy3I6CwuSNJvrgjFui2I_-xtyM47rkjIDe3I2iauCPE5LcjnOm3I7XvuCPoXLcj2f7PI2HLuiP_ILojrAS6I4k6vSPt6rcjMDa4I7IsuSO90boj0S24I7nMtyM_E7cjXUu3I7NgtyNh1rgjhmy4I7KawCM&s=AG">Teil der Sternfahrt in Berlin bei Strava</a>.
 
-<a href="https://www.youtube.com/watch?v=yjZBNsnXKKU&list=UUa5cUnTPBOpPBJUUPLn15qg">Videos von CriticalMaps sammelt Stephan Lindauer</a>.
+<a href="https://www.youtube.com/watch?v=yjZBNsnXKKU&list=UUa5cUnTPBOpPBJUUPLn15qg">Videos von CriticalMaps sammelt Stephan Lindauer</a>, in Berlin sah es kürzlich so aus:<br>
+<a href="https://scontent.ftxl1-1.fna.fbcdn.net/t31.0-8/13301451_10154185192469847_2873342219330812167_o.jpg#"><img src="https://scontent.ftxl1-1.fna.fbcdn.net/v/t1.0-0/s526x395/13322128_10154185192469847_2873342219330812167_n.jpg?oh=0921c549ae3fc99159cb8a7b56917d3c&oe=57C5EECE" alt="CriticalMaps bei der CM Berlin">
 
  <iframe width="50%" height="250" src="http://criticalmaps.net/map-embed#11/48.8094/9.1949" frameborder="0" allowfullscreen></iframe>
  
