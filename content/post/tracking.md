@@ -17,13 +17,16 @@ oder ein <a href="http://labs.strava.com/flyby/viewer/#599308654?c=u336s9nn&z=B&
 <a href="https://www.youtube.com/watch?v=yjZBNsnXKKU&list=UUa5cUnTPBOpPBJUUPLn15qg">Videos von CriticalMaps sammelt Stephan Lindauer</a>, in Berlin sah es kürzlich so aus:<br>
 <a href="https://scontent.ftxl1-1.fna.fbcdn.net/t31.0-8/13301451_10154185192469847_2873342219330812167_o.jpg#"><img src="https://scontent.ftxl1-1.fna.fbcdn.net/v/t1.0-0/s526x395/13322128_10154185192469847_2873342219330812167_n.jpg?oh=0921c549ae3fc99159cb8a7b56917d3c&oe=57C5EECE" alt="CriticalMaps bei der CM Berlin">
 
- <iframe width="50%" height="250" src="http://criticalmaps.net/map-embed#11/48.8094/9.1949" frameborder="0" allowfullscreen></iframe>
+ <iframe width="100%" height="500" src="http://criticalmaps.net/map-embed#10/48.8078/9.2422" frameborder="0" allowfullscreen></iframe>
  
   <div class="row">
-    <div class="col-xs-6">
+    <div class="col-xs-8">
+    Text
+    
+    test
      <div id="overviewmap" class="cmmap"></div>
     </div>
-    <div class="col-xs-6">
-      <iframe width="50%" height="250" src="http://criticalmaps.net/map-embed#11/48.8094/9.1949" frameborder="0" allowfullscreen></iframe>
+    <div class="col-xs-4">
+      <iframe width="50%" height="250" src="http://criticalmaps.net/map-embed#9/48.8078/9.2422" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
