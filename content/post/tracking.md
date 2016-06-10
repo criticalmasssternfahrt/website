@@ -12,4 +12,5 @@ Ersatzakku kann evtl. nicht schaden ;)
 
 Einen ersten Vorgeschmack gibt das <a href="http://labs.strava.com/flyby/viewer/#567667567?c=u0wt2f4w&z=C&t=1NBGG5&a=b-vVIdix1SGjgdUhInDVIbMb1iHPMNYhYXXVIawf3CH5HdUhIL0dIvvp4yFpDdUhs3TVIbfE1CFCtNUh60bjIVFB1SGv9Ncha9_UIXHD1iHn4tUhwZ_ZIQjX1SGWstkhLnQHIo6xEyOvodkh7bTcIQ&x=15_w&s=C8">Strava-Flyby von Mai</a>:
 <img src="http://i.giphy.com/xT0GqK9li7I6W7rlQY.gif" alt="CM Flyby 0516" >
+
 <a href="https://www.youtube.com/watch?v=yjZBNsnXKKU&list=UUa5cUnTPBOpPBJUUPLn15qg">Videos von CriticalMaps sammelt Stephan Lindauer</a>.
