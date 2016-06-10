@@ -15,6 +15,8 @@ Einen ersten Vorgeschmack gibt das <a href="http://labs.strava.com/flyby/viewer/
 
 <a href="https://www.youtube.com/watch?v=yjZBNsnXKKU&list=UUa5cUnTPBOpPBJUUPLn15qg">Videos von CriticalMaps sammelt Stephan Lindauer</a>.
 
+ <iframe width="50%" height="250" src="http://criticalmaps.net/map-embed#11/48.8094/9.1949" frameborder="0" allowfullscreen></iframe>
+ 
   <div class="row">
     <div class="col-xs-6">
      <div id="overviewmap" class="cmmap"></div>
