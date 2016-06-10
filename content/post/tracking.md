@@ -13,7 +13,7 @@ Ersatzakku kann evtl. nicht schaden ;)
 Die Positionen erscheinen dann live auf der Karte:<br>
  <iframe width="100%" height="400" src="http://criticalmaps.net/map-embed#9/48.8078/9.2422" frameborder="0" allowfullscreen></iframe>
 
-Einen Vorgeschmack gibt das <a href="http://labs.strava.com/flyby/viewer/#567667567?c=u0wt2f4w&z=C&t=1NBGG5&a=b-vVIdix1SGjgdUhInDVIbMb1iHPMNYhYXXVIawf3CH5HdUhIL0dIvvp4yFpDdUhs3TVIbfE1CFCtNUh60bjIVFB1SGv9Ncha9_UIXHD1iHn4tUhwZ_ZIQjX1SGWstkhLnQHIo6xEyOvodkh7bTcIQ&x=15_w&s=C8">Strava-Flyby von Mai</a> oder <a href="http://labs.strava.com/flyby/viewer/#597335608?c=u0wt2qvg&z=E&t=1NKRHG&a=OJ6aI85ioiMq6poj5P2bIy2UmiP0pJoj2pObI2krnSNzJJwjH76aI7QKmiOq8pojtfCbIx2OmiNjnp0jBKuaI68FrCNP-Jsj&s=6H">Juni</a>:<br>
+Einen Vorgeschmack gibt unser <a href="http://labs.strava.com/flyby/viewer/#567667567?c=u0wt2f4w&z=C&t=1NBGG5&a=b-vVIdix1SGjgdUhInDVIbMb1iHPMNYhYXXVIawf3CH5HdUhIL0dIvvp4yFpDdUhs3TVIbfE1CFCtNUh60bjIVFB1SGv9Ncha9_UIXHD1iHn4tUhwZ_ZIQjX1SGWstkhLnQHIo6xEyOvodkh7bTcIQ&x=15_w&s=C8">Strava-Flyby von Mai</a> oder <a href="http://labs.strava.com/flyby/viewer/#597335608?c=u0wt2qvg&z=E&t=1NKRHG&a=OJ6aI85ioiMq6poj5P2bIy2UmiP0pJoj2pObI2krnSNzJJwjH76aI7QKmiOq8pojtfCbIx2OmiNjnp0jBKuaI68FrCNP-Jsj&s=6H">Juni</a>:<br>
 <a href="http://gph.is/1Ul0rSF#"><img src="http://i.giphy.com/l41YuxTjlBMwSxoUU.gif" alt="CM Flyby Mai 16" ></a><br>
 oder ein <a href="http://labs.strava.com/flyby/viewer/#599308654?c=u336s9nn&z=B&t=1NK-g8&a=brm4IwUgvCPE9rgjd8K3I-gxvSPcCNkj7EC4IwzNuSMgT70jX4y_I3WWtiMpp7cjLlvdI5NdviNLsb4jXEy3I6CwuSNJvrgjFui2I_-xtyM47rkjIDe3I2iauCPE5LcjnOm3I7XvuCPoXLcj2f7PI2HLuiP_ILojrAS6I4k6vSPt6rcjMDa4I7IsuSO90boj0S24I7nMtyM_E7cjXUu3I7NgtyNh1rgjhmy4I7KawCM&s=AG">Teil der Sternfahrt in Berlin bei Strava</a>.
 
