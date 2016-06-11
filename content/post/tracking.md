@@ -1,7 +1,7 @@
 +++
 date = "2016-06-09T12:00:00+02:00"
 draft = false
-title = "Live Tracking, Wetter und VVS-Angebot"
+title = "Live Tracking und Karte, Wetter und VVS-Angebot"
 +++
 
 Es wäre wünschenswert, wenn auf jeder Route mindestens ein Smartphone mit <a href="http://criticalmaps.net/map#11/48.8094/9.1949">Critical Maps</a> und <a href="http://www.strava.com/clubs/61260">Strava</a> tracken würde – je mehr, desto besser. Dann können Quereinsteiger besser dazustoßen und der Verlauf der Sternfahrt wird nachvollziehbar.
