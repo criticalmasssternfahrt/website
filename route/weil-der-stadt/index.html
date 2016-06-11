@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="de-de">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Critical Mass Sternfahrt</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+
+  
+  <link rel="icon" href="http://critical-mass-sternfahrt.de/img/favicon.png" />
+  <link rel="apple-touch-icon" href="http://critical-mass-sternfahrt.de/img/apple-touch-icon.png" />
+
+  
+  <link rel="stylesheet" href="http://critical-mass-sternfahrt.de/vendor/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://critical-mass-sternfahrt.de/vendor/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://critical-mass-sternfahrt.de/vendor/css/mapbox.css" />
+  <link rel="stylesheet" href="http://critical-mass-sternfahrt.de/css/style.min.css" />
+
+  
+  <script src="http://critical-mass-sternfahrt.de/vendor/js/jquery.min.js"></script>
+  
+
+</head>
+<body>
+
+<div class="jumbotron" style="padding: 0;">
+  <a href="http://critical-mass-sternfahrt.de/"><img src="/img/header.png" style="max-width:100%"/></a>
+</div>
+
+
+<div class="container">
+  <p>
+    <a href="http://critical-mass-sternfahrt.de/">Home</a> » Weil der Stadt
+  </p>
+  <main>
+    <article class="post">
+      <h1>Weil der Stadt</h1>
+
+      
+      <div id="routemap" class="cmmap"></div>
+      
+
+      <ul>
+<li>10:30 Uhr <strong>Weil der Stadt</strong>: Marktplatz</li>
+<li>10:55 Uhr <strong>Malmsheim</strong>: Rathaus</li>
+<li>11:15 Uhr <strong>Renningen</strong>: Rathaus</li>
+<li>12:00 Uhr <strong>Leonberg</strong>: Marktplatz</li>
+<li>12:25 Uhr <strong>Gerlingen</strong>: Rathausplatz</li>
+<li>12:50 Uhr <strong>Weilimdorf</strong>: Löwenmarkt</li>
+<li>13:10 Uhr <strong>Feuerbach</strong>: Wilhelm-Geiger-Platz</li>
+</ul>
+
+      <p class="small gray"><time datetime="2016-06-05">Jun 05, 2016</time></p>
+    </article>
+  </main>
+</div>
+
+
+<script>
+  $(document).ready(function(){
+    makeMap(
+      [
+        "http:\/\/critical-mass-sternfahrt.de\/maps/stuttgart.geojson",
+        "http:\/\/critical-mass-sternfahrt.de\/maps/weil-der-stadt.geojson"
+      ],
+      "routemap"
+    );
+  });
+</script>
+
+
+<div class="jumbotron pre-footer ">
+  <div class="container text-sm-center">
+    <p><em>Die Critical Mass Sternfahrt wird unterstützt von</em></p>
+    <div class="row">
+      <div class="col-md-6 col-lg-3">
+        <strong><a href="https://criticalmassstuttgart.wordpress.com/" target="_blank"><img src="http://critical-mass-sternfahrt.de//img/support_logo_cms.jpg" alt="Critical Mass Stuttgart" /></a></strong>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <strong><a href="http://vcd-stuttgart.de/" target="_blank"><img src="http://critical-mass-sternfahrt.de//img/support_logo_vcd.jpg" alt="VCD Stuttgart" /></a></strong>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <strong><a href="https://www.adfc-bw.de/stuttgart/" target="_blank"><img src="http://critical-mass-sternfahrt.de//img/support_logo_adfc.jpg" alt="ADFC Stuttgart" /></a></strong>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <strong><a href="http://naturfreunde-radgruppe-stuttgart.de/" target="_blank"><img src="http://critical-mass-sternfahrt.de//img/support_logo_nrs.jpg" alt="Naturfreunde Radgruppe Stuttgart" /></a></strong>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="footer text-sm-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-muted text-center">
+
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            <a href="https://github.com/criticalmasssternfahrt"
+               target="_blank" style="white-space: nowrap;">
+              <span class="fa fa-github"></span>
+              Github
+            </a>
+          </li>
+          <li class="list-inline-item">·</li>
+          <li class="list-inline-item">
+            <a href="https://twitter.com/CriticalMass_S"
+               target="_blank" style="white-space: nowrap;">
+              <span class="fa fa-twitter"></span>
+              Twitter
+            </a>
+          </li>
+          <li class="list-inline-item">·</li>
+          <li class="list-inline-item">
+            <a href="https://www.facebook.com/criticalmassstuttgart"
+               target="_blank" style="white-space: nowrap;">
+              <span class="fa fa-facebook-square"></span>
+              Facebook
+            </a>
+          </li>
+        </ul>
+
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            Code:
+            <a href="http://choosealicense.com/licenses/mit/"
+               rel="license" target="_blank">
+              MIT License
+            </a>
+          </li>
+          <li class="list-inline-item">·</li>
+          <li class="list-inline-item">
+            Content:
+            <a href="http://creativecommons.org/licenses/by-sa/4.0/"
+               rel="license" target="_blank">
+              CC BY-SA 4.0
+            </a>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <script src="http://critical-mass-sternfahrt.de/vendor/js/bootstrap.min.js"></script>
+    <script src="http://critical-mass-sternfahrt.de/vendor/js/mapbox.js"></script>
+    <script src="http://critical-mass-sternfahrt.de//js/map.min.js"></script>
+
+</body>
+</html>
+

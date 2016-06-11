@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Mass Sternfahrt</title>
+    <link>http://critical-mass-sternfahrt.de/</link>
+    <description>Recent content on Critical Mass Sternfahrt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 09 Jun 2016 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://critical-mass-sternfahrt.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Live Tracking und Karte, Wetter und VVS-Angebot</title>
+      <link>http://critical-mass-sternfahrt.de/post/tracking/</link>
+      <pubDate>Thu, 09 Jun 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/post/tracking/</guid>
+      <description>&lt;p&gt;Es wäre wünschenswert, wenn auf jeder Route mindestens ein Smartphone mit &lt;a href=&#34;http://criticalmaps.net/map#11/48.8094/9.1949&#34;&gt;Critical Maps&lt;/a&gt; und &lt;a href=&#34;http://www.strava.com/clubs/61260&#34;&gt;Strava&lt;/a&gt; tracken würde – je mehr, desto besser. Dann können Quereinsteiger besser dazustoßen und der Verlauf der Sternfahrt wird nachvollziehbar.&lt;/p&gt;
+
+&lt;p&gt;Einfach bei &lt;a href=&#34;https://de.wikipedia.org/wiki/Strava&#34;&gt;Strava&lt;/a&gt; anmelden, App herunterladen und Tour aufzeichnen.
+Bei Critical Maps ist kein Profil nötig. Nur App installieren und mit aktiviertem GPS starten – fertig.
+Ersatzakku kann evtl. nicht schaden ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/criticalmaps/&#34;&gt;Critical Maps&lt;/a&gt; erfasst alle paar Sekunden die Position, zeigt sie live auf der Karte – speichert aber nichts. Strava zeichnet lediglich lokal auf dem Gerät auf und sendet den Track erst an den Server, wenn die Tour beendet und gespeichert wird – es zeigt also keine aktuelle Position. Während der Tour kann die App als Tacho und Karte genutzt werden. Wenn viele zumindest teilweise eine gleiche Route zur selben Zeit fahren, wird deren Aktivität in einem &amp;ldquo;&lt;a href=&#34;http://labs.strava.com/flyby/&#34;&gt;Flyby&lt;/a&gt;&amp;rdquo; zusammengefasst (&amp;ldquo;du warst mit X anderen Radfahren&amp;rdquo;, sortiert nach Korrelation). Wer lieber mit GPS-Trackern oder bspw. &lt;a href=&#34;http://www.gpsies.com/&#34;&gt;GPSies&lt;/a&gt; oder &lt;a href=&#34;http://osmand.net/&#34;&gt;OsmAnd&lt;/a&gt; arbeitet, kann auch Tracks als .tcx, .fit oder .gpx &lt;a href=&#34;https://www.strava.com/upload/select&#34;&gt;hochladen&lt;/a&gt; oder diese von anderen Diensten und &lt;a href=&#34;https://www.strava.com/upload/device&#34;&gt;von Geräten importieren&lt;/a&gt;.&lt;br&gt;Um beides (live Tracking und Strava Flyby wie unten) zu bekommen, sollten also beide Apps parallel laufen. Viel mehr Akku zieht das nicht, weil GPS ohnehin aktiv ist.&lt;/p&gt;
+
+&lt;p&gt;Die &lt;a href=&#34;http://www.dwd.de/DE/leistungen/warnwetterapp/warnwetterapp.html&#34;&gt;Warnwetter-App des DWD&lt;/a&gt; mit &lt;a href=&#34;https://www.meteoblue.com/de/wetter/vorhersage/multimodel/stuttgart_deutschland_2825297&#34;&gt;Wettervorhersage&lt;/a&gt; und &lt;a href=&#34;http://www.niederschlagsradar.de/h3.aspx?j=&amp;type=loop1stunde&amp;c=1&amp;regio=hdb&#34;&gt;Regenradar&lt;/a&gt; kann auch hilfreich sein.&lt;/p&gt;
+
+&lt;p&gt;Falls es die Rückfahrt verregnen sollte, bietet sich das &lt;a href=&#34;http://www.vvs.de/em-spezial/&#34;&gt;VVS EM-Spezial&lt;/a&gt; an: mit einem EinzelTagesTicket vier weitere Radler mitnehmen (gilt als GruppenTagesTicket, Radmitnahme ist kostenlos außerhalb der Hauptverkehrszeit).&lt;/p&gt;
+
+&lt;p&gt;Die Positionen erscheinen dann live auf der Karte bei Critical Maps:&lt;br&gt;
+ &lt;iframe width=&#34;100%&#34; height=&#34;400&#34; src=&#34;http://criticalmaps.net/map-embed#10/48.7661/9.22442&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Einen Vorgeschmack gibt unser &lt;a href=&#34;http://labs.strava.com/flyby/viewer/#567667567?c=u0wt2f4w&amp;z=C&amp;t=1NBGG5&amp;a=b-vVIdix1SGjgdUhInDVIbMb1iHPMNYhYXXVIawf3CH5HdUhIL0dIvvp4yFpDdUhs3TVIbfE1CFCtNUh60bjIVFB1SGv9Ncha9_UIXHD1iHn4tUhwZ_ZIQjX1SGWstkhLnQHIo6xEyOvodkh7bTcIQ&amp;x=15_w&amp;s=C8&#34;&gt;Strava-Flyby von Mai&lt;/a&gt; oder &lt;a href=&#34;http://labs.strava.com/flyby/viewer/#597335608?c=u0wt2qvg&amp;z=E&amp;t=1NKRHG&amp;a=OJ6aI85ioiMq6poj5P2bIy2UmiP0pJoj2pObI2krnSNzJJwjH76aI7QKmiOq8pojtfCbIx2OmiNjnp0jBKuaI68FrCNP-Jsj&amp;s=6H&#34;&gt;Juni&lt;/a&gt;:&lt;br&gt;
+&lt;a href=&#34;http://gph.is/1Ul0rSF#&#34;&gt;&lt;img src=&#34;http://i.giphy.com/l41YuxTjlBMwSxoUU.gif&#34; alt=&#34;CM Flyby Mai 16&#34; &gt;&lt;/a&gt;&lt;br&gt;
+oder ein &lt;a href=&#34;http://labs.strava.com/flyby/viewer/#599308654?c=u336s9nn&amp;z=B&amp;t=1NK-g8&amp;a=brm4IwUgvCPE9rgjd8K3I-gxvSPcCNkj7EC4IwzNuSMgT70jX4y_I3WWtiMpp7cjLlvdI5NdviNLsb4jXEy3I6CwuSNJvrgjFui2I_-xtyM47rkjIDe3I2iauCPE5LcjnOm3I7XvuCPoXLcj2f7PI2HLuiP_ILojrAS6I4k6vSPt6rcjMDa4I7IsuSO90boj0S24I7nMtyM_E7cjXUu3I7NgtyNh1rgjhmy4I7KawCM&amp;s=AG&#34;&gt;Teil der Sternfahrt in Berlin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yjZBNsnXKKU&amp;list=UUa5cUnTPBOpPBJUUPLn15qg&#34;&gt;Videos von CriticalMaps sammelt Stephan Lindauer&lt;/a&gt;, die &lt;a href=&#34;https://www.facebook.com/Critical-Mass-Berlin-74806304846/&#34;&gt;CM Berlin&lt;/a&gt; kam kürzlich auf eine beachtliche Länge:&lt;br&gt;
+&lt;a href=&#34;https://scontent.ftxl1-1.fna.fbcdn.net/t31.0-8/13301451_10154185192469847_2873342219330812167_o.jpg#&#34;&gt;&lt;img src=&#34;https://scontent.ftxl1-1.fna.fbcdn.net/v/t1.0-0/s526x395/13322128_10154185192469847_2873342219330812167_n.jpg?oh=0921c549ae3fc99159cb8a7b56917d3c&amp;oe=57C5EECE&#34; alt=&#34;CriticalMaps bei der CM Berlin&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Falls es die Rückfahrt verregnet:&lt;br&gt;
+&lt;a href=&#34;http://www.vvs.de/em-spezial/&#34;&gt;&lt;img src=&#34;http://www.vvs.de/fileadmin/user_upload/VVS-8-16-1152_EM-Spezial_HP_Banner_Unterseite_480x240px.png&#34; alt=&#34;VVS EM-Spezial&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weil der Stadt</title>
+      <link>http://critical-mass-sternfahrt.de/route/weil-der-stadt/</link>
+      <pubDate>Sun, 05 Jun 2016 19:50:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/weil-der-stadt/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;10:30 Uhr &lt;strong&gt;Weil der Stadt&lt;/strong&gt;: Marktplatz&lt;/li&gt;
+&lt;li&gt;10:55 Uhr &lt;strong&gt;Malmsheim&lt;/strong&gt;: Rathaus&lt;/li&gt;
+&lt;li&gt;11:15 Uhr &lt;strong&gt;Renningen&lt;/strong&gt;: Rathaus&lt;/li&gt;
+&lt;li&gt;12:00 Uhr &lt;strong&gt;Leonberg&lt;/strong&gt;: Marktplatz&lt;/li&gt;
+&lt;li&gt;12:25 Uhr &lt;strong&gt;Gerlingen&lt;/strong&gt;: Rathausplatz&lt;/li&gt;
+&lt;li&gt;12:50 Uhr &lt;strong&gt;Weilimdorf&lt;/strong&gt;: Löwenmarkt&lt;/li&gt;
+&lt;li&gt;13:10 Uhr &lt;strong&gt;Feuerbach&lt;/strong&gt;: Wilhelm-Geiger-Platz&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schorndorf</title>
+      <link>http://critical-mass-sternfahrt.de/route/schorndorf/</link>
+      <pubDate>Sun, 05 Jun 2016 19:48:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/schorndorf/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;10:15 Uhr &lt;strong&gt;Schorndorf&lt;/strong&gt;: Oberer Marktplatz&lt;/li&gt;
+&lt;li&gt;10:45 Uhr &lt;strong&gt;Winterbach&lt;/strong&gt;: Marktplatz&lt;/li&gt;
+&lt;li&gt;11:10 Uhr &lt;strong&gt;Remshalden&lt;/strong&gt;: Grunbach Wochenmarkt&lt;/li&gt;
+&lt;li&gt;11:30 Uhr &lt;strong&gt;Weinstadt&lt;/strong&gt;: Kreisverkehr Viadukt&lt;/li&gt;
+&lt;li&gt;12:15 Uhr &lt;strong&gt;Waiblingen&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;li&gt;12:35 Uhr &lt;strong&gt;Fellbach&lt;/strong&gt;: Rathaus&lt;/li&gt;
+&lt;li&gt;13:00 Uhr &lt;strong&gt;Bad Cannstatt&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reutlingen</title>
+      <link>http://critical-mass-sternfahrt.de/route/reutlingen/</link>
+      <pubDate>Sun, 05 Jun 2016 19:39:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/reutlingen/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;08:30 Uhr &lt;strong&gt;Reutlingen&lt;/strong&gt;: Stadthalle&lt;/li&gt;
+&lt;li&gt;08:55 Uhr &lt;strong&gt;Rommelsbach&lt;/strong&gt;: Kreisverkehr Ermstalstraße/Bei der Kirche&lt;/li&gt;
+&lt;li&gt;09:05 Uhr &lt;strong&gt;Oferdingen&lt;/strong&gt;: Mitte&lt;/li&gt;
+&lt;li&gt;09:10 Uhr &lt;strong&gt;Pliezhausen&lt;/strong&gt;: B 297/L 378&lt;/li&gt;
+&lt;li&gt;09:30 Uhr &lt;strong&gt;Neckartenzlingen&lt;/strong&gt;: Kreisverkehr Neckarburg&lt;/li&gt;
+&lt;li&gt;10:00 Uhr &lt;strong&gt;Neckartailfingen&lt;/strong&gt;: Grötzingerstraße&lt;/li&gt;
+&lt;li&gt;10:25 Uhr &lt;strong&gt;Grötzingen&lt;/strong&gt;: Mitte&lt;/li&gt;
+&lt;li&gt;11:00 Uhr &lt;strong&gt;Harthausen&lt;/strong&gt;: Harthäuserhauptstraße/Degerlochstraße&lt;/li&gt;
+&lt;li&gt;11:45 Uhr &lt;strong&gt;Filderstadt&lt;/strong&gt;: Bernhausen S-Bahnhof&lt;/li&gt;
+&lt;li&gt;12:00 Uhr &lt;strong&gt;Plieningen&lt;/strong&gt;: Einmündung Mittlere Filderstraße&lt;/li&gt;
+&lt;li&gt;12:45 Uhr &lt;strong&gt;Ruhbank&lt;/strong&gt;: U-Ruhbank/Fernsehturm&lt;/li&gt;
+&lt;li&gt;13:00 Uhr &lt;strong&gt;Degerloch&lt;/strong&gt;: Zahnradbahnhof&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Außerdem gibt es folgende Zubringer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Um 08:00 Uhr startet in &lt;strong&gt;Tübingen&lt;/strong&gt; am Uhlanddenkmal ein Zubringer, der in Pliezhausen auf die Gruppe aus Reutlingen stößt.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Um 10:30 Uhr geht es vom Zeppelinplatz in &lt;strong&gt;Echterdingen&lt;/strong&gt; nach Filderstadt-Bernhausen.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marbach/Ludwigsburg</title>
+      <link>http://critical-mass-sternfahrt.de/route/ludwigsburg/</link>
+      <pubDate>Sun, 05 Jun 2016 19:30:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/ludwigsburg/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;10:30 Uhr &lt;strong&gt;Marbach&lt;/strong&gt;: Bootshaus&lt;/li&gt;
+&lt;li&gt;11:05 Uhr &lt;strong&gt;Freiberg&lt;/strong&gt;: Zentrum&lt;/li&gt;
+&lt;li&gt;11:45 Uhr &lt;strong&gt;Ludwigsburg&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;li&gt;12:15 Uhr &lt;strong&gt;Kornwestheim&lt;/strong&gt;: Kongresszentrum „Das K“&lt;/li&gt;
+&lt;li&gt;12:30 Uhr &lt;strong&gt;Zuffenhausen&lt;/strong&gt;: Kreisverkehr beim Bezirksrathaus&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Herrenberg</title>
+      <link>http://critical-mass-sternfahrt.de/route/herrenberg/</link>
+      <pubDate>Sun, 05 Jun 2016 19:25:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/herrenberg/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;09:15 Uhr &lt;strong&gt;Herrenberg&lt;/strong&gt;: Auf dem Graben&lt;/li&gt;
+&lt;li&gt;09:40 Uhr &lt;strong&gt;Nufringen&lt;/strong&gt;: Abzweig Rohrau&lt;/li&gt;
+&lt;li&gt;10:00 Uhr &lt;strong&gt;Gärtringen&lt;/strong&gt;: Rathaus&lt;/li&gt;
+&lt;li&gt;10:30 Uhr &lt;strong&gt;Ehningen&lt;/strong&gt;: Herdstelle&lt;/li&gt;
+&lt;li&gt;11:00 Uhr &lt;strong&gt;Böblingen&lt;/strong&gt;: Elbenplatz&lt;/li&gt;
+&lt;li&gt;12:15 Uhr &lt;strong&gt;Vaihingen&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Esslingen</title>
+      <link>http://critical-mass-sternfahrt.de/route/esslingen/</link>
+      <pubDate>Sun, 05 Jun 2016 19:20:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/esslingen/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;12:00 Uhr &lt;strong&gt;Esslingen&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;li&gt;12:20 Uhr &lt;strong&gt;Obertürkheim&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;li&gt;13:00 Uhr &lt;strong&gt;Bad Cannstatt&lt;/strong&gt;: Bahnhof&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Es kann losgehen</title>
+      <link>http://critical-mass-sternfahrt.de/post/es-kann-losgehen/</link>
+      <pubDate>Sun, 05 Jun 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/post/es-kann-losgehen/</guid>
+      <description>&lt;p&gt;Alle Strecken, Treffpunkte und Zeiten sind fixiert.  Nach vielen Treffen und
+E-Mails mit den Behörden ist alles genehmigt und mit etwas Verzögerung wurde
+auch die Website mit den aktuellsten Informationen versorgt.&lt;/p&gt;
+
+&lt;p&gt;Anfang Mai konnte die Critical Mass Stuttgart den alten Rekord von
+650 Teilnehmenden aus dem September 2014 knacken und machte mit bis zu
+738 Teilnehmenden auf den Radverkehr aufmerksam.  Auch die anderen Ausfahrten
+sind gut unterwegs.  Die Reutlinger, mit bis zu 90 Radfahrenden zweitgrößte CM
+im Umland, haben sogar expandiert und Mitte Mai eine Sonderfahrt in Bad Urach
+durchgeführt.&lt;/p&gt;
+
+&lt;p&gt;Auch der Wetterbericht sieht gut aus und macht Hoffnung, dass die Wahl auf das
+richtige Wochenende fiel.  Letztendlich ist das ja bei jeder Veranstaltung unter
+freiem Himmel der größte Unsicherheitsfaktor.&lt;/p&gt;
+
+&lt;p&gt;Somit könnte es aus unserer Sicht nun losgehen, allerdings müssen wir uns noch
+eine Woche gedulden, aber die wird schnell vorübergehen.  Und etwas Zeit für das
+letzte bisschen Werbung kann schließlich auch nicht schaden.&lt;/p&gt;
+
+&lt;p&gt;Wir sehen uns am 12. Juni auf einer der Touren, spätestens aber bei der
+Abschlussrunde in Stuttgart!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strecken verdichten sich</title>
+      <link>http://critical-mass-sternfahrt.de/post/strecken-verdichten-sich/</link>
+      <pubDate>Tue, 05 Apr 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/post/strecken-verdichten-sich/</guid>
+      <description>&lt;p&gt;Im Hintergrund hat sich viel getan.  Wir konnten fast alle Critical-Mass-Initiativen
+in der Umgebund von Stuttgart überzeugen mitzumachen.  Es gibt Entwürfe
+der Strecken und es wurde mit den Behörden vor Ort Kontakt aufgenommen.&lt;/p&gt;
+
+&lt;p&gt;Da die Entscheidungen der Behörden nicht ganz so schnell fallen, wie wir uns
+das vorstellen, verzögert sich unser ursprünglicher Zeitplan etwas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Am Sonntag, den 12. Juni 2016 ist es soweit: wir starten die erste Critical Mass Sternfahrt!</title>
+      <link>http://critical-mass-sternfahrt.de/post/wir-uebernehmen-die-sternfahrt/</link>
+      <pubDate>Mon, 11 Jan 2016 12:00:00 +0100</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/post/wir-uebernehmen-die-sternfahrt/</guid>
+      <description>&lt;p&gt;Wir, die Initiative Critical Mass Stuttgart, finden: zum Radsommer gehört eine Sternfahrt wie der Donner zum Blitz – deshalb machen wir einfach eine!&lt;/p&gt;
+
+&lt;p&gt;Wir haben Kontakt zu allen Critical-Mass-Initiativen im Umland aufgenommen und werden versuchen, so viele Startpunkte wie möglich zu organisieren.&lt;/p&gt;
+
+&lt;p&gt;Zu den einzelnen Startpunkten wird es voraussichtlich auch Zubringer geben aus weiter entfernten Orten wie Tübingen oder Göppingen. Vielleicht kommen sogar noch mehr Orte dazu …&lt;/p&gt;
+
+&lt;p&gt;Wir wollen alle Zweige nach Stuttgart in die Innenstadt bringen, uns dort sammeln und dann noch eine große gemeinsame Runde über den Cityring drehen.&lt;/p&gt;
+
+&lt;p&gt;Freut Euch drauf!&lt;/p&gt;
+
+&lt;p&gt;Wer sich an der Organisation der Aktion in jedweder Form beteiligen möchte schreibe bitte an: criticalmassstuttgart(at)gmail(dot)com.&lt;/p&gt;
+
+&lt;p&gt;Für alle Social-Media-Verrückten gibt es schonmal eine &lt;a href=&#34;https://www.facebook.com/events/967518680001851/&#34;&gt;Facebook-Veranstaltung&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://critical-mass-sternfahrt.de/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/post/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&#34;canonical&#34; href=&#34;{{ .Site.BaseURL }}&#34;/&gt;
+    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url={{ .Site.BaseURL }}&#34; /&gt;
+  &lt;/head&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://critical-mass-sternfahrt.de/route/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://critical-mass-sternfahrt.de/route/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&#34;canonical&#34; href=&#34;{{ .Site.BaseURL }}&#34;/&gt;
+    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url={{ .Site.BaseURL }}&#34; /&gt;
+  &lt;/head&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
